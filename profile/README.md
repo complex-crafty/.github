@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Complex Crafty Banner" width="800">
+<img src="banner.png" alt="Complex Crafty Banner" width="100%">
 
 **Building sophisticated software solutions with human-centered design.**
 
