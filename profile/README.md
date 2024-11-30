@@ -35,7 +35,7 @@ We bring a deep understanding of cutting-edge technology and best practices to e
 
 Are you facing complex challenges in your industry that require a bespoke software solution? Contact us to discuss how we can help turn your vision into a reality.
 
-[Link to Website](complexcrafty.com)
+[Link to Website](https://complexcrafty.com)
 [Contact Email](contact@complexcrafty.com)
 
 
