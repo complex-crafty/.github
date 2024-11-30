@@ -1,4 +1,4 @@
-# Complex Crafty Software & Cloud Solutions
+<img src="banner.png" alt="Complex Crafty Banner" width="800">
 
 **Building sophisticated software solutions with human-centered design.**
 
